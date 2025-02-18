@@ -1,0 +1,25 @@
+p{
+    color: blue;
+    text-align: center;
+    text-size-adjust: 200px;
+}
+
+input{
+    border: 15px;
+    background-color: rgb(163, 163, 163);
+    align-content: center;
+    width: 100px;
+    height: 25px;
+}
+.parrafin{
+    text-align: center;
+    color: aquamarine;
+}
+
+#pin {
+    text-shadow: rgb(255, 255, 255);
+    text-align: justify;
+    color: chartreuse;
+    background-color: black;
+    
+}
